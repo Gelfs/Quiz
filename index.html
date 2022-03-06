@@ -24,16 +24,17 @@
    <input type="button" value="submit your quiz" onclick="submit()">
 
 <script>
-   function submit(){
-          var q1= document.Quiz.Q1.value;
-          var Grade= 0;
-          
-          if (q1=="a"){
-                   Grade + 10;
-          }
-          alert("You got "+Grade+"% on your quiz");
-   }
+	var q1 = document.Quiz.Q1.value;
+	var Grade= 0;
+
+	function submit(){
+
+		if (q1=="a"){
+			Grade + 10;
+		}
+		alert("You got "+Grade+"% on your quiz");
+	}
 <script>
   
- </body>
+</body>
 </html
