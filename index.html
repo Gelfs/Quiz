@@ -20,7 +20,20 @@
         Q1. What was the First Youtube Video Ever Made and Uploaded?<br>
         <input type="radio" name="Q1" value="a">Day at Zoo<br>
         <input type="radio" name="Q1" value="b">MrBeast<br>
-  
+   
+   <input type="button" value="submit your quiz" onclick="submit()"
+
+<script>
+   function submit(){
+          var q1=document.myform.q1.value;
+          var Grade=0;
+          
+          if (q1=="a"){
+                   Grade+10;
+          }
+          alert("You got "+Grade"% on your quiz")
+   }
+<script>
   
  </body>
 </html
