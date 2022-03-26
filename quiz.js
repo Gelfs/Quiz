@@ -15,6 +15,7 @@ function timer() {
   }
 }
 
+setInterval(timer(), 800);
 
 function result() {
     var c = 0;
