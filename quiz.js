@@ -1,5 +1,21 @@
 
 
+var startingMinutes = 5;
+let time = startingMinutes * 60;
+
+function timer() {
+  const minutes = Math.floor(time / 60);
+  let seconds = time % 60;
+
+
+  timerdisplay.innerHTML = `You have ${minutes} minutes and ${seconds} remaining `;
+  time--;
+  if (time==0) {
+    result()
+  }
+}
+
+
 function result() {
     var c = 0;
     var q1=document.quiz.question1.value;
