@@ -68,37 +68,37 @@ function result() {
 
 
     if (c==10) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 100% on this QUIZ!!!</p><br> <p class='TheGrade'>Good Job studying!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title> <h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 100% on this QUIZ!!!</p><br> <p class='TheGrade'>Good Job studying!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==9) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 90% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 90% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==8) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 80% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 80% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==7) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 70% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 70% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==6) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 60% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 60% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==5) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 50% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 50% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==4) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 40% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 40% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==3) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 30% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 30% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==2) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 20% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 20% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==1) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 10% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 10% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
     if (c==0) {
-      document.write("<h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 0% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
+      document.write("<title>Submitted</title><h2 class='heading'>Thank you for taking my quiz!</h2><br>" + "<p class='TheGrade'>You got a 0% on this QUIZ!!!</p><br> <p class='TheGrade'>I believe you can better!</p>" +"<br><br>This was made out of boredom by Gelfs" + "<link rel='stylesheet' href='quiz.css'>")
     }
 
 }
