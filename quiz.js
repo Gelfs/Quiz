@@ -1,6 +1,6 @@
 
 
-var startingMinutes = 1;
+var startingMinutes = 2;
 let time = startingMinutes * 60;
 
 function timer() {
