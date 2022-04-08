@@ -16,6 +16,7 @@ function timer() {
 }
 
 document.addEventListener("visibilitychange", function() {
+    alert("Nice try, cheater.");
     result();
 });
 
